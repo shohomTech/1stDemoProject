@@ -69,13 +69,11 @@ public class RediffHomepage extends baseClass {
 	@DataProvider
 	public Object[][] getData() {
 		
-		Object[][] data= new Object[2][2];
+		Object[][] data= new Object[1][2];
 		
 		data[0][0] ="abc@rediffmail.com";
 		data[0][1]="12345";
 		
-		data[1][0]="xyz@rediffmail.com";
-		data[1][1]="23456";
 		
 		return data;
 		
