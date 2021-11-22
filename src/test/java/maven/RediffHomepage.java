@@ -74,11 +74,11 @@ public class RediffHomepage extends baseClass {
 		data[0][0] ="abc@rediffmail.com";
 		data[0][1]="12345";
 		
-		data[0][0] ="xyz@rediffmail.com";
-		data[0][1]="23456";
+		data[1][0] ="xyz@rediffmail.com";
+		data[1][1]="23456";
 		
-		data[0][0] ="john@rediffmail.com";
-		data[0][1]="45633";
+		data[2][0] ="john@rediffmail.com";
+		data[2][1]="45633";
 		
 		return data;
 		
