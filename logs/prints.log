@@ -1,0 +1,5 @@
+11:31:13.233 [main] INFO  pageObjectRepository.baseClass - Window maximized
+11:32:27.222 [main] INFO  pageObjectRepository.baseClass - Landing page loaded
+11:32:36.740 [main] DEBUG pageObjectRepository.baseClass - Results shown
+11:59:39.478 [main] INFO  pageObjectRepository.baseClass - Driver initialized
+11:59:39.739 [main] INFO  pageObjectRepository.baseClass - Window maximized
